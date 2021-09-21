@@ -9,7 +9,7 @@ for quick deployment of the Dojot Load Test tool using docker-compose.
 If you don't have any certificates, you should first generate them. See the
 Generate Certificates script [documentation](https://github.com/dojot/dojot/tree/master/connector/mqtt/locust/src/scripts/README.md) for more info.
 
-For instructions on how to configure and how to it works, please check the [documentation](https://github.com/dojot/dojot/tree/master/connector/mqtt/locust/README.md)
+For instructions on how to configure and how to it works, please check the [documentation](https://github.com/dojot/dojot/tree/master/connector/mqtt/locust/README.md) or follow the [tutorial](https://dojotdocs.readthedocs.io/en/latest/load-testing-dojot-platform.html).
 
 ## **Docker-Compose**
 
